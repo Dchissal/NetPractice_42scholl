@@ -20,7 +20,6 @@ Check again: Verifica se a configuração feita está correta e se a rede está 
 Get my config: Permite baixar a configuração criada, útil para submissão ou correção.
 Esse projeto é uma excelente oportunidade para entender de maneira prática como configurar redes e solucionar problemas comuns no gerenciamento de redes
 
-## 🖼️ Exemplos
 ![example (2)](https://raw.githubusercontent.com/Dchissal/NetPractice_42scholl/refs/heads/main/img/net1.gif)
 
 ![example (3)](https://raw.githubusercontent.com/Dchissal/NetPractice_42scholl/refs/heads/main/img/net2.gif)
