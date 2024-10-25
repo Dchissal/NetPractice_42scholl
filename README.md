@@ -21,9 +21,9 @@ Get my config: Permite baixar a configuração criada, útil para submissão ou 
 Esse projeto é uma excelente oportunidade para entender de maneira prática como configurar redes e solucionar problemas comuns no gerenciamento de redes
 
 ## 🖼️ Exemplos
-![example (2)](https://raw.githubusercontent.com/Dchissal/FDF-42-schooll/refs/heads/main/Screenshot%20from%202024-10-13%2009-53-45.png)
+![example (2)](https://raw.githubusercontent.com/Dchissal/NetPractice_42scholl/refs/heads/main/img/net1.gif)
 
-![example (3)](https://raw.githubusercontent.com/Dchissal/FDF-42-schooll/refs/heads/main/Screenshot%20from%202024-10-13%2009-55-17.png)
+![example (3)](https://raw.githubusercontent.com/Dchissal/NetPractice_42scholl/refs/heads/main/img/net2.gif)
 
 ## 📞 Contato
 
